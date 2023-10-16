@@ -1,5 +1,5 @@
 let togg = document.getElementById("togg")
-let div = document.getElementById("d");
+let div = document.getElementById("d");//COUOCU
 
 
 
